@@ -1,3 +1,3 @@
 # Informatik
 ## Einleitung
-Dieses Programm berechnet den BMI von einer Person. Der Benutzer gibt sein Gewicht und seine Grösse ein. Daraus berechnet der Computer den BMI, indem er zuerst die Grösse hoch zwei rechnet und danach das Gewicht geteilt durch diese Zahl rechnet.
+Dieses Programm berechnet den BMI von einer Person. Die Benutzung ist sehr leicht. Der Benutzer muss nur seine Grösse und sein Gewicht eingeben. Der Rest wir vom Computer erledigt. Am Ende gibt das Programm den BMI dieser Person aus.
